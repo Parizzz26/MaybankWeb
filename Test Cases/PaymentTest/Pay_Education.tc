@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pay_Education</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1596fddb-b06a-4d4e-8137-628bd21a2616</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cbb3062f-c58a-4e4e-8a65-74e325acb916</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0a6d736-5efa-4554-aa26-7bb7c2712805</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>677e158e-4c49-446b-b854-9518bc9da93e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'7833800000101'</defaultValue>
+      <description></description>
+      <id>cbb3062f-c58a-4e4e-8a65-74e325acb916</id>
+      <masked>false</masked>
+      <name>noVA</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>f0a6d736-5efa-4554-aa26-7bb7c2712805</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Other Bill'</defaultValue>
+      <description></description>
+      <id>677e158e-4c49-446b-b854-9518bc9da93e</id>
+      <masked>false</masked>
+      <name>tranType</name>
+   </variable>
+</TestCaseEntity>

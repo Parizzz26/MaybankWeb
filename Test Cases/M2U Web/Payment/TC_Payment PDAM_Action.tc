@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Payment PDAM_Action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ae71e80-94cb-4b81-b66c-2470d976c22f</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>765cf419-932c-4237-9c30-ccfe77d0d38f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WebTransaction</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>765cf419-932c-4237-9c30-ccfe77d0d38f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>idpel</value>
+      <variableId>5c75d970-6a01-4f3f-9419-c35342bcc6dc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5c75d970-6a01-4f3f-9419-c35342bcc6dc</id>
+      <masked>false</masked>
+      <name>idpel</name>
+   </variable>
+</TestCaseEntity>

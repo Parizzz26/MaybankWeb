@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rp_Reference</name>
+   <tag></tag>
+   <elementGuidId>a45deac0-4b08-4f36-8469-8190d053743b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[4]/div/div/div[2]/div/div[2]/div[3]/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>12234ab8-efdd-492a-9242-91447cb84fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root item--right MuiTypography-body1</value>
+      <webElementGuid>1ad2be37-fac5-4a5d-b8d7-c705f35cd3f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0001301877</value>
+      <webElementGuid>9ab7ccf3-d1b2-4a09-9876-ed257b429a82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pages container transaction&quot;]/div[@class=&quot;container--left&quot;]/div[@class=&quot;MuiGrid-root transaction transfer--container MuiGrid-container MuiGrid-justify-xs-center&quot;]/div[@class=&quot;MuiGrid-root transaction transfer--container MuiGrid-container MuiGrid-justify-xs-center&quot;]/div[@class=&quot;MuiGrid-root mt4 confirmation--section MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-item MuiGrid-align-content-xs-flex-start MuiGrid-justify-xs-center MuiGrid-grid-md-10&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-10&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root card card--panel-header  MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiCardContent-root content--list&quot;]/div[@class=&quot;MuiGrid-root content--item  MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7&quot;]/p[@class=&quot;MuiTypography-root item--right MuiTypography-body1&quot;]</value>
+      <webElementGuid>09edd06c-2b96-4aa1-a4f3-bcde1e86a831</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[4]/div/div/div[2]/div/div[2]/div[3]/div[2]/p</value>
+      <webElementGuid>822a3bc6-d15e-4c16-9826-f4017f8a5ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Favorite'])[1]/following::p[6]</value>
+      <webElementGuid>8007c2f2-dbd9-4989-8217-d409f6141b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monetary Information'])[1]/preceding::p[1]</value>
+      <webElementGuid>968de87d-5b6a-41ac-b440-adec45625027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 12,000.00'])[4]/preceding::p[6]</value>
+      <webElementGuid>e95b527c-8b14-49d3-aa89-d871b54309b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0001301877']/parent::*</value>
+      <webElementGuid>3fc29941-3a94-40a3-85b3-6a1fafd9d034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/p</value>
+      <webElementGuid>fd94c9e7-ec31-42e7-96c2-4fd2c6f57674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '0001301877' or . = '0001301877')]</value>
+      <webElementGuid>96e2a07b-1e77-4024-9489-63aefc2721a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

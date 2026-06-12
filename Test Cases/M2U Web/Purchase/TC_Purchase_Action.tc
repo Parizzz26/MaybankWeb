@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Purchase_Action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b88c35d-e6da-4f6e-9587-12232e545ed7</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>96e196bc-bee4-4cde-91e8-ccf781eadcb9</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WebTransaction</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>96e196bc-bee4-4cde-91e8-ccf781eadcb9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>dariPurchase</value>
+      <variableId>6a0734b2-aa21-4d6c-b6e1-ec57ce2adb09</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>96e196bc-bee4-4cde-91e8-ccf781eadcb9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ke</value>
+      <variableId>086efbd5-b595-4727-8adb-f3dd4cf74a4b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>96e196bc-bee4-4cde-91e8-ccf781eadcb9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>operator</value>
+      <variableId>c1160c81-8882-4e19-9897-178416b5bef6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6a0734b2-aa21-4d6c-b6e1-ec57ce2adb09</id>
+      <masked>false</masked>
+      <name>dariP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>086efbd5-b595-4727-8adb-f3dd4cf74a4b</id>
+      <masked>false</masked>
+      <name>ke</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1160c81-8882-4e19-9897-178416b5bef6</id>
+      <masked>false</masked>
+      <name>operator</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>qspan_Masuk</name>
+   <tag></tag>
+   <elementGuidId>9e4f432c-def4-4764-ae2c-1b0d4456362a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/button/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.db.btn--login.btn.btn-action.btn--asset.MuiButton-disableElevation > span.MuiButton-label > span.btn--title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6757cf4e-20e9-46bc-aa88-94617d78f0cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn--title</value>
+      <webElementGuid>d9087e66-1bda-4818-a083-59d115b8e487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>75c0e81b-17a4-4117-9be6-2dd7fa5105f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;home&quot;]/div[@class=&quot;MuiGrid-root mb3 home--login-form MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-center&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained db btn--login btn btn-action btn--asset MuiButton-disableElevation&quot;]/span[@class=&quot;MuiButton-label&quot;]/span[@class=&quot;btn--title&quot;]</value>
+      <webElementGuid>f0c0b9fd-5bc7-4d30-9269-10ef49a91676</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/button/span/span</value>
+      <webElementGuid>ba454036-da71-4197-8f27-97f7ad96f135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Humanising Banking'])[1]/following::span[2]</value>
+      <webElementGuid>c01204a8-a884-4f20-9373-b0c0cc7ba1eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar sekarang'])[1]/following::span[4]</value>
+      <webElementGuid>2f13c5cb-d920-4225-9f02-63b2cfaac3b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali ke Klasik'])[1]/preceding::span[4]</value>
+      <webElementGuid>2042e21e-14f7-47b0-a368-808b72bfac52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bantuan Covid-19'])[1]/preceding::span[8]</value>
+      <webElementGuid>db9b08eb-d368-44a4-95cb-a95a530380e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
+      <webElementGuid>c4bcf9f8-fac6-4d3b-8acb-eacfcec0e3de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span/span</value>
+      <webElementGuid>56939e52-9404-463a-9919-f7d36f593850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>8e23b19c-56e9-424d-9289-bb9fe6281df7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

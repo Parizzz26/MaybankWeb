@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Account Summary (List Account SOF)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6bd043ad-d788-42d3-b4e5-c540dd780949</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6ffcba8d-f304-4b29-b103-5ddd3a7c20c5</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WebTransaction</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6ffcba8d-f304-4b29-b103-5ddd3a7c20c5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>cif</value>
+      <variableId>470347f1-1351-4c32-8685-e89e53b81376</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>470347f1-1351-4c32-8685-e89e53b81376</id>
+      <masked>false</masked>
+      <name>cif</name>
+   </variable>
+</TestCaseEntity>

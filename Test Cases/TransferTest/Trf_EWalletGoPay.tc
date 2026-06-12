@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Trf_EWalletGoPay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7503d32-36dd-4d61-ba04-dba7d396b34d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>52225995-cae4-497a-9c8d-02307898fbf3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>16b59a89-9e20-48ac-a2b2-8ca0df276ebe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0132d8ca-a072-4afd-b666-55948ee60589</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Transfer'</defaultValue>
+      <description></description>
+      <id>52225995-cae4-497a-9c8d-02307898fbf3</id>
+      <masked>false</masked>
+      <name>tranCategory</name>
+   </variable>
+   <variable>
+      <defaultValue>'E-Wallet'</defaultValue>
+      <description></description>
+      <id>16b59a89-9e20-48ac-a2b2-8ca0df276ebe</id>
+      <masked>false</masked>
+      <name>tranType</name>
+   </variable>
+   <variable>
+      <defaultValue>'081200001234'</defaultValue>
+      <description></description>
+      <id>0132d8ca-a072-4afd-b666-55948ee60589</id>
+      <masked>false</masked>
+      <name>customerNumber</name>
+   </variable>
+</TestCaseEntity>

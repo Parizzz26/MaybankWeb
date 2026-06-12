@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pay_internet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6605495a-7b94-4310-8659-f4fa0206feb1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a28fb7f4-a740-4c1b-8f02-a5f5b4161a55</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c826a95e-1969-42e7-8f02-588c0b8e3c15</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5261ea22-f393-4fe0-b114-7b2cd7ee3da0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e91073fd-9808-404c-9d7f-6b758c9e4be5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1234567890'</defaultValue>
+      <description></description>
+      <id>a28fb7f4-a740-4c1b-8f02-a5f5b4161a55</id>
+      <masked>false</masked>
+      <name>custNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>c826a95e-1969-42e7-8f02-588c0b8e3c15</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Katalon is running SIT'</defaultValue>
+      <description></description>
+      <id>5261ea22-f393-4fe0-b114-7b2cd7ee3da0</id>
+      <masked>false</masked>
+      <name>msg</name>
+   </variable>
+   <variable>
+      <defaultValue>'Other Bill'</defaultValue>
+      <description></description>
+      <id>e91073fd-9808-404c-9d7f-6b758c9e4be5</id>
+      <masked>false</masked>
+      <name>tranType</name>
+   </variable>
+</TestCaseEntity>

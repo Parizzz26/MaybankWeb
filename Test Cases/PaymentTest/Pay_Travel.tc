@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pay_Travel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5054cad-84a1-4f92-b481-8590ce5e9af6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f83624f-54d4-4536-9e36-bc87a7db38e4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8c9da2a9-0e4f-4243-8da8-0c011cb844b3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0a70d3f-960f-487b-b4da-6dca941a3469</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'7817800000000002'</defaultValue>
+      <description></description>
+      <id>9f83624f-54d4-4536-9e36-bc87a7db38e4</id>
+      <masked>false</masked>
+      <name>noVA</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>8c9da2a9-0e4f-4243-8da8-0c011cb844b3</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Other Bill'</defaultValue>
+      <description></description>
+      <id>a0a70d3f-960f-487b-b4da-6dca941a3469</id>
+      <masked>false</masked>
+      <name>tranType</name>
+   </variable>
+</TestCaseEntity>

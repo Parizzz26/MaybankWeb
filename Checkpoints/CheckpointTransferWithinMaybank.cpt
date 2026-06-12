@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointTransferWithinMaybank</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/TransactionData_internalData</source-url>
+   </source-info>
+   <taken-date>2023-02-02T15:59:59.437</taken-date>
+   <column-names>
+      <column-name>beneficiaryMaybankAccount</column-name>
+      <column-name>amountTobeTransfered</column-name>
+      <column-name>tranCategory</column-name>
+      <column-name>tranType</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "1003760941",
+      "checked": false
+    },
+    {
+      "value": "12000",
+      "checked": false
+    },
+    {
+      "value": "Transfer",
+      "checked": false
+    },
+    {
+      "value": "Within Maybank",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

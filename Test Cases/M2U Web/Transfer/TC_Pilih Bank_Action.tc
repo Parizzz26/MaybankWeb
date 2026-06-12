@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Pilih Bank_Action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15cf5597-ed35-45d5-b052-2d8d61f753e9</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>02fd5878-2886-4d68-8758-a6219960843b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WebTransaction</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>02fd5878-2886-4d68-8758-a6219960843b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>bank</value>
+      <variableId>6234df59-6dc4-42f3-b5d8-b0b52b7162fc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6234df59-6dc4-42f3-b5d8-b0b52b7162fc</id>
+      <masked>false</masked>
+      <name>bank</name>
+   </variable>
+</TestCaseEntity>

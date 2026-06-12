@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Pulsa - Paket Data_Action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27f9f337-65fa-4283-88f5-0e07eff358f2</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>d183f0e5-35b8-4f1e-9979-51ba28191048</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WebTransaction</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>d183f0e5-35b8-4f1e-9979-51ba28191048</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>NoHP</value>
+      <variableId>ad78fa11-4ffc-4782-9452-2529d87320c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>d183f0e5-35b8-4f1e-9979-51ba28191048</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>NoHP</value>
+      <variableId>e613ea30-02fb-4097-ac22-3453003a6180</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>d183f0e5-35b8-4f1e-9979-51ba28191048</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>jumlah</value>
+      <variableId>c1c00e5c-be95-4ae7-b0d8-07583d97090f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ad78fa11-4ffc-4782-9452-2529d87320c8</id>
+      <masked>false</masked>
+      <name>NoHP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e613ea30-02fb-4097-ac22-3453003a6180</id>
+      <masked>false</masked>
+      <name>provider</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1c00e5c-be95-4ae7-b0d8-07583d97090f</id>
+      <masked>false</masked>
+      <name>jumlah</name>
+   </variable>
+</TestCaseEntity>

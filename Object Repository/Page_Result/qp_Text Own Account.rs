@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>qp_Text Own Account</name>
+   <tag></tag>
+   <elementGuidId>ff833fea-93cd-4736-b220-335a6f1a0785</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[4]/div/div/div[2]/div/div/div[2]/span/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4ac5bbb4-daaa-41d3-af58-5528012dd0ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mv1</value>
+      <webElementGuid>2a778529-2c70-45f2-874d-a943841b5a16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Own Account</value>
+      <webElementGuid>2826ca7c-d24c-49e5-a5f5-158eeae771e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pages container transaction&quot;]/div[@class=&quot;container--left&quot;]/div[@class=&quot;MuiGrid-root transaction transfer--container MuiGrid-container MuiGrid-justify-xs-center&quot;]/div[@class=&quot;MuiGrid-root transaction transfer--container MuiGrid-container MuiGrid-justify-xs-center&quot;]/div[@class=&quot;MuiGrid-root mt4 confirmation--section MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-item MuiGrid-align-content-xs-flex-start MuiGrid-justify-xs-center MuiGrid-grid-md-10&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-10&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root card card--panel-header  MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiCardHeader-root header--green bb-yellow&quot;]/div[@class=&quot;MuiCardHeader-content&quot;]/span[@class=&quot;MuiTypography-root MuiCardHeader-title MuiTypography-body2 MuiTypography-displayBlock&quot;]/p[@class=&quot;mv1&quot;]</value>
+      <webElementGuid>fe52f728-9c82-414d-9d78-9e77849a6966</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[4]/div/div/div[2]/div/div/div[2]/span/p[2]</value>
+      <webElementGuid>13494406-88c8-4225-aab4-59740e1ed8ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer to'])[1]/following::p[2]</value>
+      <webElementGuid>ab9bd5be-ec4e-4b43-a11e-49300b320640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 3,270,800.00'])[1]/following::p[4]</value>
+      <webElementGuid>617cd5a5-e85b-4816-835b-d72e15f591ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 12,000.00'])[1]/preceding::p[1]</value>
+      <webElementGuid>be078d28-c96f-4560-90a8-551f2ca1a721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Own Account']/parent::*</value>
+      <webElementGuid>c8a9dfe9-6edd-47e6-88c5-ca69ea76292c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/p[2]</value>
+      <webElementGuid>d9f30fbe-1e56-49d3-8289-3cd6801cf659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Own Account' or . = 'Own Account')]</value>
+      <webElementGuid>ba504464-7a9d-417e-b57d-e40f90ccb22a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

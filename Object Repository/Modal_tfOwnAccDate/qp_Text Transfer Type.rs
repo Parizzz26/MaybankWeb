@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>qp_Text Transfer Type</name>
+   <tag></tag>
+   <elementGuidId>4bca4b3d-03ca-496a-848d-42df20d0ef92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//p[@class='mv1'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Within Maybank' or . = 'Within Maybank')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6bd0c9e1-20df-4a2c-a5ab-18c3132c9fa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mv1</value>
+      <webElementGuid>18a6ffc0-b9d0-46f5-b96f-bf3116c04450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Within Maybank</value>
+      <webElementGuid>773ef686-314d-4247-8153-789a77d4ac0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pages container transaction&quot;]/div[@class=&quot;container--left&quot;]/div[@class=&quot;MuiGrid-root transaction transfer--container MuiGrid-container MuiGrid-justify-xs-center&quot;]/div[@class=&quot;MuiGrid-root transaction transfer--container MuiGrid-container MuiGrid-justify-xs-center&quot;]/div[@class=&quot;MuiGrid-root mt4 confirmation--section MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-item MuiGrid-align-content-xs-flex-start MuiGrid-justify-xs-center MuiGrid-grid-md-10&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-10&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root card card--panel-header  MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiCardHeader-root header--green bb-yellow&quot;]/div[@class=&quot;MuiCardHeader-content&quot;]/span[@class=&quot;MuiTypography-root MuiCardHeader-title MuiTypography-body2 MuiTypography-displayBlock&quot;]/p[@class=&quot;mv1&quot;]</value>
+      <webElementGuid>1dc54588-9b67-4fb9-857e-6eda55dbe412</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[4]/div/div/div[2]/div/div/div[2]/span/p[2]</value>
+      <webElementGuid>737e1f20-5956-4242-9adc-0df619dabfe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QCKCI QCWUKU'])[1]/following::p[2]</value>
+      <webElementGuid>0bb215e6-d9b2-4406-bce3-389c3b8bb93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer to'])[1]/following::p[2]</value>
+      <webElementGuid>dfbe6197-c923-4947-a6a5-c56053515be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Favorite'])[1]/preceding::p[2]</value>
+      <webElementGuid>a50d0d88-3be5-4ff9-89da-1ccb50d4f950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Within Maybank']/parent::*</value>
+      <webElementGuid>0eb12ffb-1aaa-46a9-85d9-6be7c8ed38c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/p[2]</value>
+      <webElementGuid>170b26c6-7a72-46e1-98cc-8e1777d075c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Within Maybank' or . = 'Within Maybank')]</value>
+      <webElementGuid>cc4736e9-7810-4be2-aa12-b828f82c7fac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

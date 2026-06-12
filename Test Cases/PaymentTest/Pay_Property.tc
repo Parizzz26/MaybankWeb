@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pay_Property</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4a41392-d126-480f-a8ed-3a5c3c0e4b62</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd02a1f7-6b07-4807-8aee-e5c9416e2a71</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1cc4b6e-13db-4413-b9f6-ccba036a5dd8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60068a17-f044-4514-b31d-88d9323cbab0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'7833751216209'</defaultValue>
+      <description></description>
+      <id>dd02a1f7-6b07-4807-8aee-e5c9416e2a71</id>
+      <masked>false</masked>
+      <name>noVA</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>e1cc4b6e-13db-4413-b9f6-ccba036a5dd8</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Other Bill'</defaultValue>
+      <description></description>
+      <id>60068a17-f044-4514-b31d-88d9323cbab0</id>
+      <masked>false</masked>
+      <name>tranType</name>
+   </variable>
+</TestCaseEntity>

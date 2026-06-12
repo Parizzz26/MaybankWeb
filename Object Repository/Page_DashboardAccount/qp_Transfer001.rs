@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>qp_Transfer001</name>
+   <tag></tag>
+   <elementGuidId>ade9894f-b035-4cbc-ba6b-4afe43ed0034</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='transaction-tab-1']/span/span/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#transaction-tab-1 > span.MuiButton-label > span.MuiTab-wrapper > div > p.MuiTypography-root.ttu.tab--label.MuiTypography-body1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e47de7e9-1a1c-4a8a-a228-c98ea58eae29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root ttu tab--label MuiTypography-body1</value>
+      <webElementGuid>a5a4ecf8-b7e5-4d5f-a1be-ce19069a8d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer</value>
+      <webElementGuid>207f408c-6cd8-49b7-a054-5c055a664cca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transaction-tab-1&quot;)/span[@class=&quot;MuiButton-label&quot;]/span[@class=&quot;MuiTab-wrapper&quot;]/div[1]/p[@class=&quot;MuiTypography-root ttu tab--label MuiTypography-body1&quot;]</value>
+      <webElementGuid>cae8bdb5-fc2f-4b9f-bc4e-464362c6aa60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='transaction-tab-1']/span/span/div/p</value>
+      <webElementGuid>eb0aa1c0-0e08-4457-abff-6bcb4f2c04fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giro'])[1]/preceding::p[5]</value>
+      <webElementGuid>aca6d054-421c-4e3a-8442-4336e850c5cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transfer']/parent::*</value>
+      <webElementGuid>3de891b8-3a37-41d4-9221-87e27f0ac86a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/span/div/p</value>
+      <webElementGuid>e9b5f764-a80f-4f77-92cf-68337b5525ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Transfer' or . = 'Transfer')]</value>
+      <webElementGuid>dd65e2a8-0a88-4b57-b935-6d082ec47d20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

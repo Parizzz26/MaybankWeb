@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_blank</name>
+   <tag></tag>
+   <elementGuidId>748bf912-2c2b-4378-bf41-e8caa6676489</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButton-contained.db.MuiButton-disableElevation.MuiButton-root.btn.MuiButtonBase-root.btn-action[type=&quot;button&quot;] .MuiButton-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>${xpath}</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>91eb1cb9-3a88-470f-86af-8b12fbe3f920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>6a165520-cb9b-4b18-a434-d6500d9ccf03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bayar</value>
+      <webElementGuid>5c19b6d9-7f8d-41e7-8873-a6fda6558fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-92f231ba86b7944c455e5047878f514c</value>
+      <webElementGuid>e57759e5-6639-4036-9890-70470da81d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@class and contains(concat(' ', normalize-space(@class), ' '), ' MuiButton-contained ') and contains(concat(' ', normalize-space(@class), ' '), ' db ') and contains(concat(' ', normalize-space(@class), ' '), ' MuiButton-disableElevation ') and contains(concat(' ', normalize-space(@class), ' '), ' MuiButton-root ') and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' MuiButtonBase-root ') and contains(concat(' ', normalize-space(@class), ' '), ' btn-action ') and (@type = 'button')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' MuiButton-label ')]</value>
+      <webElementGuid>f5dcce82-4cab-4102-afab-4672f12ee36a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@class and contains(concat(' ', normalize-space(@class), ' '), ' MuiButton-contained ') and contains(concat(' ', normalize-space(@class), ' '), ' db ') and contains(concat(' ', normalize-space(@class), ' '), ' MuiButton-disableElevation ') and contains(concat(' ', normalize-space(@class), ' '), ' MuiButton-root ') and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' MuiButtonBase-root ') and contains(concat(' ', normalize-space(@class), ' '), ' btn-action ') and (@type = 'button')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' MuiButton-label ')]</value>
+      <webElementGuid>e9760d8f-3521-48b3-86d4-84873fb185a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Bayar' or . = 'Bayar')]</value>
+      <webElementGuid>133643d3-8af2-4f81-ada5-5dd86c5260f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

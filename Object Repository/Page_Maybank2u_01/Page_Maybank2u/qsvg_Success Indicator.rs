@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>qsvg_Success Indicator</name>
+   <tag></tag>
+   <elementGuidId>1b4691f7-5a4d-4f38-8175-cacf573467f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div[2]/div[1]/div[4]/div/div[1]/div[2]/div/div[1]/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiCardHeader-avatar > svg.MuiSvgIcon-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>e794f238-7a23-41c6-8eb8-80046e8096b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root</value>
+      <webElementGuid>0bce8670-2635-43d4-9500-173b94104682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>204fd356-87c8-4288-982a-875b5bd34c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>08ce675e-0a6c-4428-9119-87a9b2558f11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2e4f3644-a652-4f5f-9ec8-0c035b056eb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pages container transaction&quot;]/div[@class=&quot;container--left&quot;]/div[@class=&quot;MuiGrid-root transaction transfer--container MuiGrid-container MuiGrid-justify-xs-center&quot;]/div[@class=&quot;MuiGrid-root transaction transfer--container MuiGrid-container MuiGrid-justify-xs-center&quot;]/div[@class=&quot;MuiGrid-root mt4 confirmation--section MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-item MuiGrid-align-content-xs-flex-start MuiGrid-justify-xs-center MuiGrid-grid-md-10&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-10&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root card card--panel-header  MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiCardHeader-root header--green bb-yellow&quot;]/div[@class=&quot;MuiCardHeader-avatar&quot;]/svg[@class=&quot;MuiSvgIcon-root&quot;]</value>
+      <webElementGuid>daf0a96f-5f55-4171-a4c6-2d71c892f945</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 3,270,800.00'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>6607daa4-f4dd-4e2e-8128-b75cf7781ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tabungan Maksi'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>1438ecca-3fb1-4290-be94-abdaac3daeac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer to'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>d6dbc7f9-5dec-4b56-a06c-9159056593e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 12,000.00'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>a88b710a-f282-4a61-9847-74b4ca320592</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

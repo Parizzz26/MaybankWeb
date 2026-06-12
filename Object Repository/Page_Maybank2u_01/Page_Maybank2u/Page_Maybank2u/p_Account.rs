@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Account</name>
+   <tag></tag>
+   <elementGuidId>63792fe9-4550-4c4e-a98b-4d62e705c9e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTab-wrapper > div > p.MuiTypography-root.ttu.tab--label.MuiTypography-body1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='dashboard-tab-0']/span/span/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>991aa64c-fbb0-4935-b57b-765cc1ed9ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root ttu tab--label MuiTypography-body1</value>
+      <webElementGuid>cf4f08c1-4433-426d-af78-a2546323b4ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account</value>
+      <webElementGuid>25e0486e-0483-4282-b2ca-3b6f2b59ee08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard-tab-0&quot;)/span[@class=&quot;MuiButton-label&quot;]/span[@class=&quot;MuiTab-wrapper&quot;]/div[1]/p[@class=&quot;MuiTypography-root ttu tab--label MuiTypography-body1&quot;]</value>
+      <webElementGuid>64b5bde4-ccd3-4587-a0ba-48e8f06decaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='dashboard-tab-0']/span/span/div/p</value>
+      <webElementGuid>86194afd-9bc6-4382-b5da-5d65637486aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='U Transaction Account'])[1]/preceding::p[10]</value>
+      <webElementGuid>8e633912-578b-410d-a744-e5c35b0f683f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/p</value>
+      <webElementGuid>1a2da238-a3cd-45b8-9fa2-ca6c5a1263ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Account' or . = 'Account')]</value>
+      <webElementGuid>6ebecaef-3ede-4c18-8e32-4c31156f6031</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://10.230.196.17/home/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sitoccup1417'</initValue>
+      <name>USERNAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Mbi123456'</initValue>
+      <name>PASSWORD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>free amt transaction</description>
+      <initValue>'12000'</initValue>
+      <name>AMOUNT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>tac code</description>
+      <initValue>'a1Y4x5Bm7tOmeu8WxrYL0Q=='</initValue>
+      <name>TAC</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Katalon is running SIT test '</initValue>
+      <name>MESSAGE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'m2u.revamp7@maylab.net'</initValue>
+      <name>EMAIL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Transaction Successful!'</initValue>
+      <name>TRANSTATUS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Transaction accepted!'</initValue>
+      <name>TRANSTATUSDATE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>new Date().format(&quot;YYYY-MM-dd HH:mm:ss&quot;)</initValue>
+      <name>TIMESTAMP</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2000'</initValue>
+      <name>FEE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://webmail.maylab.net/owa'</initValue>
+      <name>EMAILURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'m2u.revamp7@maylab.net'</initValue>
+      <name>EMAILUSN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Maybank1!'</initValue>
+      <name>EMAILPWD</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

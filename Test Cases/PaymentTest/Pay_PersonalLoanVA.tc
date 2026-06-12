@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pay_PersonalLoanVA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9660285-ef92-4f0b-994d-6a1a1ff5e15a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b058f059-54ff-4fdb-8de0-780f681cd6a3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c5a6b4cc-a7ca-4ba4-8096-1fbcb0f933fc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>168a1a1c-c210-4273-97bd-616dc870afdb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'7845200000000001'</defaultValue>
+      <description></description>
+      <id>b058f059-54ff-4fdb-8de0-780f681cd6a3</id>
+      <masked>false</masked>
+      <name>noVA</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>c5a6b4cc-a7ca-4ba4-8096-1fbcb0f933fc</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Other Bill'</defaultValue>
+      <description></description>
+      <id>168a1a1c-c210-4273-97bd-616dc870afdb</id>
+      <masked>false</masked>
+      <name>tranType</name>
+   </variable>
+</TestCaseEntity>

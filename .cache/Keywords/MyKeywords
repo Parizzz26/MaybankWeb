@@ -1,0 +1,51 @@
+{
+  "keywordFileContentHash": "CFF42ED276175591834DFB995943510D",
+  "keywordClasses": [
+    {
+      "name": "MyKeywords",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "navigateToTransactionMainPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "navigateToPaymentPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "navigateToTransferPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "requestAndInputTac",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "logout",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginEmail",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "validasiEmail",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

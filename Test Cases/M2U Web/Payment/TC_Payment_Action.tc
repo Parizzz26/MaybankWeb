@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Payment_Action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05b0aff8-e5ad-40c0-a4f3-0da5ef26ff63</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3eda965f-5de1-4a6b-9bdb-3f8829d22e70</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WebTransaction</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3eda965f-5de1-4a6b-9bdb-3f8829d22e70</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>dariPayment</value>
+      <variableId>3926f27b-f053-43f4-9be1-997229d535ea</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3eda965f-5de1-4a6b-9bdb-3f8829d22e70</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>untuk</value>
+      <variableId>bbb9bea5-d6c3-47a6-a1aa-d11483db94b6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3eda965f-5de1-4a6b-9bdb-3f8829d22e70</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tagihan</value>
+      <variableId>3a0cf875-8360-4466-92e8-867ca81908ec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3926f27b-f053-43f4-9be1-997229d535ea</id>
+      <masked>false</masked>
+      <name>dariPay</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bbb9bea5-d6c3-47a6-a1aa-d11483db94b6</id>
+      <masked>false</masked>
+      <name>untuk</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3a0cf875-8360-4466-92e8-867ca81908ec</id>
+      <masked>false</masked>
+      <name>tagihan</name>
+   </variable>
+</TestCaseEntity>

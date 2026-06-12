@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Rekening Sendiri_Action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>436268db-8188-461c-9776-47b1829e0f90</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b2a014a9-8908-41fc-a595-be05157e6f8f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WebTransaction</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b2a014a9-8908-41fc-a595-be05157e6f8f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>rekeningSendiri</value>
+      <variableId>5098285d-0ad4-4bdb-a641-33827a290978</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b2a014a9-8908-41fc-a595-be05157e6f8f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>amount</value>
+      <variableId>52481a9c-02ab-4b2f-8143-b78f0973ef30</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5098285d-0ad4-4bdb-a641-33827a290978</id>
+      <masked>false</masked>
+      <name>sendiri</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>52481a9c-02ab-4b2f-8143-b78f0973ef30</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+</TestCaseEntity>

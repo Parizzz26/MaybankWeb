@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Tagihan Handphone_Action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>256ed3e3-43f6-43d2-ad3f-8a27f1c17343</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6166a2c0-aa5b-4e2d-8a30-61ab6ad8761e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WebTransaction</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6166a2c0-aa5b-4e2d-8a30-61ab6ad8761e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>idpel</value>
+      <variableId>e264e7b7-c3b3-4a0c-9f1c-78072be7efbc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e264e7b7-c3b3-4a0c-9f1c-78072be7efbc</id>
+      <masked>false</masked>
+      <name>idpel</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Amount Transfer</name>
+   <tag></tag>
+   <elementGuidId>1018878a-ffb0-49b8-8545-e8aa0ad2aae7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[4]/div/div/div[4]/div/div/div[2]/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.red</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06556914-8668-4bc2-965c-5c73c337808d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>red</value>
+      <webElementGuid>edacefab-df56-4ee5-a1a2-38d56d297875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IDR 12,000.00</value>
+      <webElementGuid>eaf1d02e-3575-45d9-86d6-0cd1c162044f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pages container transaction&quot;]/div[@class=&quot;container--left&quot;]/div[@class=&quot;MuiGrid-root transaction transfer--container MuiGrid-container MuiGrid-justify-xs-center&quot;]/div[@class=&quot;MuiGrid-root transaction transfer--container MuiGrid-container MuiGrid-justify-xs-center&quot;]/div[@class=&quot;MuiGrid-root mt4 confirmation--section MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-item MuiGrid-align-content-xs-flex-start MuiGrid-justify-xs-center MuiGrid-grid-md-10&quot;]/div[@class=&quot;MuiGrid-root debit--amount MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-10&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root card card--panel-item MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiGrid-root content--item  MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7&quot;]/p[@class=&quot;MuiTypography-root item--right MuiTypography-body1&quot;]/span[@class=&quot;red&quot;]</value>
+      <webElementGuid>98179ce8-7ed7-4baf-8a37-559120158137</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[4]/div/div/div[4]/div/div/div[2]/p/span</value>
+      <webElementGuid>dec9c40c-f92d-4735-82d5-179ade23831c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monetary Information'])[1]/following::span[1]</value>
+      <webElementGuid>7f1db3cf-ffaa-4a9c-b4b8-c7a3f4c90f4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction successful!'])[1]/preceding::span[1]</value>
+      <webElementGuid>03a1a380-4e27-47a9-9057-05e3f651eec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Receipt'])[1]/preceding::span[1]</value>
+      <webElementGuid>b0046531-5b5e-4475-9fdd-9324402741b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/p/span</value>
+      <webElementGuid>068fced9-6369-4d5a-94c8-9c4fddd72def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'IDR 12,000.00' or . = 'IDR 12,000.00')]</value>
+      <webElementGuid>c4f33112-9079-4268-ae42-e900daba70e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

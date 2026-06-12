@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pay_AllianzInsurance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1917938-0e54-4e1a-83b5-bb0e49f5ac80</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5f249231-b042-4668-951a-34603b587cbc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b103e820-59d0-4d2b-9b71-75a3cf7e5dc1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>82eb66e3-64ab-487b-aeef-b0db9ce825d2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'7887901501000156'</defaultValue>
+      <description></description>
+      <id>5f249231-b042-4668-951a-34603b587cbc</id>
+      <masked>false</masked>
+      <name>noVA</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>b103e820-59d0-4d2b-9b71-75a3cf7e5dc1</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Other Bill'</defaultValue>
+      <description></description>
+      <id>82eb66e3-64ab-487b-aeef-b0db9ce825d2</id>
+      <masked>false</masked>
+      <name>tranType</name>
+   </variable>
+</TestCaseEntity>

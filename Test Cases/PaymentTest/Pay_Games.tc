@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pay_Games</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7624f15-d93b-473e-ac45-f8fd5105a1f3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7bf1c6fe-29bf-4e64-8a0b-7c3613c1363f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>500dce70-f01a-45c6-a345-ac2876234358</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97bd6712-e74b-45a2-9f9f-4e89a14df6e6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'7812000000000001'</defaultValue>
+      <description></description>
+      <id>7bf1c6fe-29bf-4e64-8a0b-7c3613c1363f</id>
+      <masked>false</masked>
+      <name>noVA</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>500dce70-f01a-45c6-a345-ac2876234358</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Other Bill'</defaultValue>
+      <description></description>
+      <id>97bd6712-e74b-45a2-9f9f-4e89a14df6e6</id>
+      <masked>false</masked>
+      <name>tranType</name>
+   </variable>
+</TestCaseEntity>

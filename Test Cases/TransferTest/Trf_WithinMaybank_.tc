@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Trf_WithinMaybank_</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6821f0a-80f6-403b-83e2-cf37cd7cc633</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a9ff0af3-42e4-4c77-a1a1-c2d3c80e99fb</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TransactionData_internalData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>a9ff0af3-42e4-4c77-a1a1-c2d3c80e99fb</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>beneficiaryMaybankAccount</value>
+      <variableId>3411aa4b-886f-49e1-b5b8-663dbb080394</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a9ff0af3-42e4-4c77-a1a1-c2d3c80e99fb</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>amountTobeTransfered</value>
+      <variableId>3209445a-9ec8-480e-ba52-d1ea0cda1a0c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a9ff0af3-42e4-4c77-a1a1-c2d3c80e99fb</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tranCategory</value>
+      <variableId>c46fca01-7e4c-4167-890a-1d4d86116356</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a9ff0af3-42e4-4c77-a1a1-c2d3c80e99fb</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tranType</value>
+      <variableId>c1f2b668-4a7d-433c-9f1f-6358d77f14c7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>beneficiary Maybank account</description>
+      <id>3411aa4b-886f-49e1-b5b8-663dbb080394</id>
+      <masked>false</masked>
+      <name>beneficiaryMaybankAccount</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>amount to be transfered</description>
+      <id>3209445a-9ec8-480e-ba52-d1ea0cda1a0c</id>
+      <masked>false</masked>
+      <name>amountTobeTransfered</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>transaction category</description>
+      <id>c46fca01-7e4c-4167-890a-1d4d86116356</id>
+      <masked>false</masked>
+      <name>tranCategory</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>transaction category/type</description>
+      <id>c1f2b668-4a7d-433c-9f1f-6358d77f14c7</id>
+      <masked>false</masked>
+      <name>tranType</name>
+   </variable>
+</TestCaseEntity>

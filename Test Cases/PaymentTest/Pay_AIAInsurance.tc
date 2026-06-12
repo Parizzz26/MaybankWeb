@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pay_AIAInsurance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bc80253-6ee9-4a90-8f12-3b9265e9203d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>950b22c6-fbd7-4902-b788-f4e98ccc716b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83dd06f1-7f5a-47ba-a303-3724ea7b6637</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e42e5ec-052a-496b-adcf-644cbe3b2812</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc3177bb-846a-494c-940b-0bcacc301a2b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1234456779898989'</defaultValue>
+      <description></description>
+      <id>950b22c6-fbd7-4902-b788-f4e98ccc716b</id>
+      <masked>false</masked>
+      <name>custNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>83dd06f1-7f5a-47ba-a303-3724ea7b6637</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Katalon is running SIT'</defaultValue>
+      <description></description>
+      <id>2e42e5ec-052a-496b-adcf-644cbe3b2812</id>
+      <masked>false</masked>
+      <name>msg</name>
+   </variable>
+   <variable>
+      <defaultValue>'Other Bill'</defaultValue>
+      <description></description>
+      <id>cc3177bb-846a-494c-940b-0bcacc301a2b</id>
+      <masked>false</masked>
+      <name>tranType</name>
+   </variable>
+</TestCaseEntity>

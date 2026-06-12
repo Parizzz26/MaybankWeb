@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Transaction Layanan Umum_Action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>247b66c8-a00c-4f68-8f75-965cc9765ddc</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>795c2d02-0efc-41cb-9472-4fa12e805c8e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WebTransaction</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>795c2d02-0efc-41cb-9472-4fa12e805c8e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>idpel</value>
+      <variableId>432a0906-f5b7-4cc6-a8d8-ef112864f3ca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>432a0906-f5b7-4cc6-a8d8-ef112864f3ca</id>
+      <masked>false</masked>
+      <name>idpel</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pay_personalLoan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cba15840-68ff-4647-a5c1-b8975d6531dc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3c00bfc2-b289-40ce-97e7-73917529965c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e0f2cb6-6851-4376-915e-2be6727ca7da</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>56c526e1-34b5-44c3-8ddc-7e8c79b00423</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>247b2c6d-8886-4122-8967-92ec6ff014f7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1234567890'</defaultValue>
+      <description></description>
+      <id>3c00bfc2-b289-40ce-97e7-73917529965c</id>
+      <masked>false</masked>
+      <name>custNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>0e0f2cb6-6851-4376-915e-2be6727ca7da</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Other Bill'</defaultValue>
+      <description></description>
+      <id>56c526e1-34b5-44c3-8ddc-7e8c79b00423</id>
+      <masked>false</masked>
+      <name>tranType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Katalon is running SIT'</defaultValue>
+      <description></description>
+      <id>247b2c6d-8886-4122-8967-92ec6ff014f7</id>
+      <masked>false</masked>
+      <name>msg</name>
+   </variable>
+</TestCaseEntity>

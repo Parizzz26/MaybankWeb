@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Profile Chrome Katalon_Action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3348a710-f9bd-49aa-ab50-cb1aafb0494d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b7738c85-bc13-4d4a-9e58-017c7b220e48</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WebTransaction</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b7738c85-bc13-4d4a-9e58-017c7b220e48</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>pathFile</value>
+      <variableId>1d210fd0-3887-4596-b2d6-d797bc7cbcf0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b7738c85-bc13-4d4a-9e58-017c7b220e48</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>e9101311-932f-452b-b631-8df33142ec26</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1d210fd0-3887-4596-b2d6-d797bc7cbcf0</id>
+      <masked>false</masked>
+      <name>profilePath</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e9101311-932f-452b-b631-8df33142ec26</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

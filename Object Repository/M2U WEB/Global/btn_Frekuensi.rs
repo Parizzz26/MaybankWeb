@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Frekuensi</name>
+   <tag></tag>
+   <elementGuidId>6bc15534-4057-4972-bd88-5d4a95c90d08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.db .btn--title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[text()='Humanising Banking']/following::button[(text() = 'Masuk' or . = 'Masuk')][1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Masuk' or . = 'Masuk')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7d0c75c0-ef3e-463e-84ef-35759e6ddca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn--title</value>
+      <webElementGuid>5295c7ae-c61d-4b80-b745-1df4f93cdbb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>d94f2132-d5f9-49e3-bf27-7cddbb51bfde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a9a8b11d2c5cfb7f28fce41446f5a4b4</value>
+      <webElementGuid>9111454b-018f-47c3-86e9-79a4ded3f796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' db ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn--title ')]</value>
+      <webElementGuid>182287e7-274b-44cd-8b8c-c2ff93aaa199</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' db ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn--title ')]</value>
+      <webElementGuid>49bac73d-1ed5-4208-af02-c9f9075a0492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>34970ae5-931d-4038-90b8-74830fe01adb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pay_maybankCC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>892b0cdb-c650-4efd-80df-bad3d02d0ab9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4124a4a7-d034-4ebb-8be1-7eba843c2455</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dae5c9b8-d8b3-42d1-bd50-88cb8ceb8d99</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'4047760013497033'</defaultValue>
+      <description></description>
+      <id>4124a4a7-d034-4ebb-8be1-7eba843c2455</id>
+      <masked>false</masked>
+      <name>custNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'20000'</defaultValue>
+      <description></description>
+      <id>dae5c9b8-d8b3-42d1-bd50-88cb8ceb8d99</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+</TestCaseEntity>

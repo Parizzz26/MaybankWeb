@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pcs_pembelianListrik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44bdda5a-42b9-4350-a831-8c3d8ca1e17e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>949dd188-f146-4e2e-9d40-4d46e1cfc30b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a93c98d0-b3ab-4d08-b744-5f42d420ab73</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'123123123123'</defaultValue>
+      <description></description>
+      <id>949dd188-f146-4e2e-9d40-4d46e1cfc30b</id>
+      <masked>false</masked>
+      <name>custNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'PLN Prepaid'</defaultValue>
+      <description></description>
+      <id>a93c98d0-b3ab-4d08-b744-5f42d420ab73</id>
+      <masked>false</masked>
+      <name>tranType</name>
+   </variable>
+</TestCaseEntity>

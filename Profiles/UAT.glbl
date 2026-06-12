@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>UAT</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://172.21.11.25/home/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ntbfau37'</initValue>
+      <name>USERNAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Mbi123456'</initValue>
+      <name>PASSWORD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>free amount transaction</description>
+      <initValue>'13000'</initValue>
+      <name>AMOUNT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>TAC code</description>
+      <initValue>'a1Y4x5Bm7tOmeu8WxrYL0Q=='</initValue>
+      <name>TAC</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>message</description>
+      <initValue>'Katalon is running UAT env test '</initValue>
+      <name>MESSAGE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>beneficiary email</description>
+      <initValue>'m2u.revamp7@maylab.net'</initValue>
+      <name>EMAIL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>success message</description>
+      <initValue>'Transaction successful!'</initValue>
+      <name>TRANSTATUS</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,1 @@
+test add new file directly to Git
